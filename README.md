@@ -1,24 +1,7 @@
----
-### :woman_technologist: About Me :
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=14&pause=1000&color=580F7E&background=FF1EA000&width=500&lines=Hi+there!+Hallo+an+alle!+%D0%92%D1%81%D0%B5%D0%BC+%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82!)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=14&color=580F7E&multiline=true&repeat=false&height=70&lines=Welcome+to+my+Githab+profile!;My+name+is+Anna%2C+I'm+from+Russia.;Below+is+my+current+stack.)](https://git.io/typing-svg)  
+<img src="https://github.com/AnnaVita1/AnnaVita1/blob/main/Group%202.jpg"/>  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=14&pause=1000&color=580F7E&background=FF1EA000&width=500&lines=Ready+for+work!)](https://git.io/typing-svg)
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/NbhiwA0C8THIv8KvG5/giphy.gif" width="100"/>
-</div>
-
-<!--
-**AnnaVita1/AnnaVita1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Please,+contact+me&color=blueviolet)](https://t.me/AnnaVita1)
