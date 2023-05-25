@@ -1,4 +1,12 @@
-### Hi there 👋
+---
+### :woman_technologist: About Me :
+---
+
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/NbhiwA0C8THIv8KvG5/giphy.gif" width="100"/>
+</div>
 
 <!--
 **AnnaVita1/AnnaVita1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
