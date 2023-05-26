@@ -6,3 +6,4 @@
 ---
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Please,+contact+me&color=blueviolet&style=for-the-badge)](https://t.me/AnnaVita1)  
 
+![Discord](https://img.shields.io/discord/1111697970539270259?label=Discord&style=for-the-badge)
